@@ -1,0 +1,10 @@
+C:\Users\supor\source\repos\ValidadorCPF\ValidadorCPF\bin\Debug\ValidadorCPF.exe.config
+C:\Users\supor\source\repos\ValidadorCPF\ValidadorCPF\bin\Debug\ValidadorCPF.exe
+C:\Users\supor\source\repos\ValidadorCPF\ValidadorCPF\bin\Debug\ValidadorCPF.pdb
+C:\Users\supor\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\ValidadorCPF.csprojResolveAssemblyReference.cache
+C:\Users\supor\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\ValidadorCPF.Form1.resources
+C:\Users\supor\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\ValidadorCPF.Properties.Resources.resources
+C:\Users\supor\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\ValidadorCPF.csproj.GenerateResource.cache
+C:\Users\supor\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\ValidadorCPF.csproj.CoreCompileInputs.cache
+C:\Users\supor\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\ValidadorCPF.exe
+C:\Users\supor\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\ValidadorCPF.pdb
