@@ -1,0 +1,17 @@
+
+
+       criar repositorio no github
+
+      Abri terminal na pasta do diretorio
+
+      git config --global user.name"LuanGalli"
+      git config --global user.email"luangalli@hotmail.com"
+
+      iniciar - git init
+      adicionar origem pra onde vai ser adicionado o repositorio - git remote add origin https://github.com/LuanGalli/Android
+      git pull origin master
+      git add .   (o (.) serve para adicionar todas as pastas, caso queira adicionar somente uma, basta colocar somente o nome dela)
+      git commit -m "ver 1.0.0"
+      git push origin master
+      user name
+      senha
