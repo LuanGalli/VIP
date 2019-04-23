@@ -16,7 +16,7 @@ namespace ValidadorCPF
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmValidadorCPF());
+            Application.Run(new cpf());
 
         }
     }

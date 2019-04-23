@@ -45,16 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Validador.cs">
+    <Compile Include="frmValidador.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Validador.Designer.cs">
-      <DependentUpon>Validador.cs</DependentUpon>
+    <Compile Include="frmValidador.Designer.cs">
+      <DependentUpon>frmValidador.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Validador.resx">
-      <DependentUpon>Validador.cs</DependentUpon>
+    <EmbeddedResource Include="frmValidador.resx">
+      <DependentUpon>frmValidador.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

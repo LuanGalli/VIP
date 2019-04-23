@@ -1,6 +1,6 @@
 ﻿namespace ValidadorCPF
 {
-    partial class frmValidadorCPF
+    partial class cpf
     {
         /// <summary>
         /// Required designer variable.
@@ -50,7 +50,7 @@
             this.btnCalcular.TabIndex = 1;
             this.btnCalcular.Text = "Consultar";
             this.btnCalcular.UseVisualStyleBackColor = true;
-            this.btnCalcular.Click += new System.EventHandler(this.button1_Click);
+            this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
             // 
             // lblCPF
             // 
@@ -60,7 +60,6 @@
             this.lblCPF.Size = new System.Drawing.Size(74, 13);
             this.lblCPF.TabIndex = 2;
             this.lblCPF.Text = "Informe o CPF";
-           // this.lblCPF.Click += new System.EventHandler(this.lblCPF_Click);
             // 
             // frmValidadorCPF
             // 

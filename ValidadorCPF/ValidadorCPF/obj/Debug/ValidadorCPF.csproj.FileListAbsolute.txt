@@ -7,4 +7,4 @@ C:\Users\supor\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\ValidadorCPF.csp
 C:\Users\supor\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\ValidadorCPF.csproj.CoreCompileInputs.cache
 C:\Users\supor\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\ValidadorCPF.exe
 C:\Users\supor\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\ValidadorCPF.pdb
-C:\Users\supor\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\ValidadorCPF.frmValidadorCPF.resources
+C:\Users\supor\source\repos\ValidadorCPF\ValidadorCPF\obj\Debug\ValidadorCPF.cpf.resources
